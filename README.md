@@ -20,13 +20,13 @@ A blockchain-powered freelance escrow system using Ethereum smart contracts. Fre
 ## 📸 Screenshots
 
 ### 🧾 Contract on Sepolia
-![Contract on Etherscan](screenshots\contract_deployed.png),
-![ChainLink Token](screenshots\chainlink_token.png)
+![Contract on Etherscan](screenshots/contract_deployed.png),
+![ChainLink Token](screenshots/chainlink_token.png)
 
 ### 🖥️ Local Testing Results
-![Local Test Results](screenshots\local_test_deploy.png),
-![2](screenshots\local_test_interact.png),
-![3](screenshots\local_test_1.png),
-![4](screenshots\local_test_1.1.png),
-![5](screenshots\local_test_1.2.png),
-![6](screenshots\local_test_1.3.png).
+![Local Test Results](screenshots/local_test_deploy.png),
+![2](screenshots/local_test_interact.png),
+![3](screenshots/local_test_1.png),
+![4](screenshots/local_test_1.1.png),
+![5](screenshots/local_test_1.2.png),
+![6](screenshots/local_test_1.3.png).
